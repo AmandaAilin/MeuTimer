@@ -14,7 +14,10 @@
 
 ![meutimer](https://user-images.githubusercontent.com/100203503/167228256-c085605a-5e65-43b3-a26f-193201402e26.PNG)
 
-
+<p align="right">
+ View: https://amandaailin.github.io/MeuTimer/
+</p>
+	
 ## Descrição do Projeto
 Meu timer é um dos meus primeiros projetos, é um "cronometro", a intenção é aplicar meus conhecimentos em CSS e Javascript. Tambem apliqueimeus conhecimentos em flexbox. 
 
@@ -23,6 +26,7 @@ Meu timer é um dos meus primeiros projetos, é um "cronometro", a intenção é
 - [ ] adicionar acessibilidade
 - [ ] media query
 - [ ] clean code
+- [ ] melhorar estilização
 </br>
 
 
