@@ -12,7 +12,7 @@
  <a href="#Documentação">Documentação</a> •
 </p>
 
-![meutimer](https://user-images.githubusercontent.com/100203503/167228256-c085605a-5e65-43b3-a26f-193201402e26.PNG)
+![timer](https://user-images.githubusercontent.com/100203503/172061495-b496d0e6-e363-4311-b814-9ed2f6675841.PNG)
 
 <p align="right">
  View: https://amandaailin.github.io/MeuTimer/
