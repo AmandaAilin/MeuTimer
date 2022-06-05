@@ -25,13 +25,11 @@ Meu timer é um dos meus primeiros projetos, é um "cronometro", a intenção é
 
 - [ ] adicionar acessibilidade
 - [ ] media query
-- [ ] clean code
-- [ ] melhorar estilização
 </br>
 
 
 ## Funcionalidades:
-- `Funcionalidade 1`: 
+- `Funcionalidade 1`: Iniciar, pausar, zerar.
 
 
 ## Tecnologias utilizadas
