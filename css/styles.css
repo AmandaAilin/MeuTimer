@@ -72,6 +72,7 @@ section div{
     font-family: 'Lora', serif;
     cursor: pointer;
     margin-right: 10px;
+    border: none;
 }
 
 #boton .pausar {
@@ -81,6 +82,7 @@ section div{
     font-family: 'Lora', serif;
     cursor: pointer;
     margin-right: 10px;
+    border: none;
 }
 
 #boton .zerar {
@@ -90,6 +92,7 @@ section div{
     font-family: 'Lora', serif;
     cursor: pointer;
     margin-right: 10px;
+    border: none;
 }
 
 footer{
